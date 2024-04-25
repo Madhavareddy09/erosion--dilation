@@ -21,7 +21,8 @@ Erode the image
 Dilate the Image
  
 ## Program:
-
+### Developed by : K MADHAVA REDDY
+### Register Number : 212223240064
 ``` Python
 # Import the necessary packages
 import numpy as np
